@@ -1,14 +1,14 @@
 # ADM-HW4
 
-Lorenzo Ceccomancini - Omid Ghamiloo
-Dario Russo - russo.1714011@studenti.uniroma1.it
-Omid Ghamiloo - omid.ghamiloo@gmail.com
+- Lorenzo Ceccomancini - Omid Ghamiloo
+- Dario Russo - russo.1714011@studenti.uniroma1.it
+- Omid Ghamiloo - omid.ghamiloo@gmail.com
 
 
 ## File used
 
-For exercise 1 we used the files in the data folder (passwords1.txt, passwords2.txt).
-For exercise 3 we used the data in the wines.data file and the information in the wines.names file.
+- For exercise 1 we used the files in the data folder (passwords1.txt, passwords2.txt).
+- For exercise 3 we used the data in the wines.data file and the information in the wines.names file.
 
 ## Lib used:
 
