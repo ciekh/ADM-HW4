@@ -1,8 +1,8 @@
 # ADM-HW4
 
 ## File used
-For exercise 1 we used the files in the data folder
-For exercise 3 we used the data in the wines.data file and the information in the wines.names file
+For exercise 1 we used the files in the data folder.
+For exercise 3 we used the data in the wines.data file and the information in the wines.names file.
 
 ## Lib used
 ### hashing_lib.py
