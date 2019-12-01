@@ -2,7 +2,7 @@
 
 Lorenzo Ceccomancini - Omid Ghamiloo
 Dario Russo - russo.1714011@studenti.uniroma1.it
-Omid Ghamiloo - 
+Omid Ghamiloo - omid.ghamiloo@gmail.com
 
 
 ## File used
